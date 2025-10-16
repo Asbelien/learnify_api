@@ -1,7 +1,7 @@
 # 🎓 Learnify API — Gestor de Cursos Online
 
 **Learnify API** es una aplicación desarrollada en **Django** y **Django REST Framework (DRF)** que permite la **gestión de cursos online** y los **instructores** encargados de dictarlos.  
-Este proyecto forma parte del **Laboratorio 4** del curso *Desarrollo de Aplicaciones Empresariales*, y tiene como objetivo aplicar los conceptos fundamentales del desarrollo de APIs RESTful utilizando Django.
+Este proyecto forma parte del **Laboratorio 7 y 8** del curso *Desarrollo de Aplicaciones Empresariales*, y tiene como objetivo aplicar los conceptos fundamentales del desarrollo de APIs RESTful utilizando Django.
 
 ---
 
